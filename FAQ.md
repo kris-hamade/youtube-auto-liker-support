@@ -1,3 +1,11 @@
+---
+layout: default
+title: FAQ
+permalink: /faq/
+---
+
+<article class="content-page" markdown="1">
+
 # FAQ
 
 ## What is YouTube Auto Liker?
@@ -30,4 +38,6 @@ No. This repository is only for support, documentation, issue tracking, and poli
 
 The privacy policy is available here:
 
-./PRIVACY.md
+[Privacy Policy]({{ '/privacy/' | relative_url }})
+
+</article>

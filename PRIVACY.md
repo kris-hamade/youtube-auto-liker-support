@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: Privacy Policy
 permalink: /privacy/
 ---
+
+<article class="content-page" markdown="1">
 
 # Privacy Policy
 
@@ -50,3 +52,5 @@ This privacy policy may be updated from time to time. Updates will be posted in 
 For support or privacy questions, please open an issue:
 
 https://github.com/kris-hamade/youtube-auto-liker-support/issues
+
+</article>

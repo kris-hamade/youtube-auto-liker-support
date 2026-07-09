@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title and page.title != site.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav" aria-label="Main navigation">
+        <a class="brand" href="{{ '/' | relative_url }}">YouTube Auto Liker</a>
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}">Support</a>
+          <a href="{{ '/faq/' | relative_url }}">FAQ</a>
+          <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <span>Support and documentation for YouTube Auto Liker.</span>
+      <a href="https://github.com/kris-hamade/youtube-auto-liker-support/issues">Open an issue</a>
+    </footer>
+  </body>
+</html>

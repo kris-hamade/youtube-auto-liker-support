@@ -1,3 +1,11 @@
+---
+layout: default
+title: Support
+permalink: /support/
+---
+
+<article class="content-page" markdown="1">
+
 # Support
 
 Need help, found a bug, or have a feature request?
@@ -26,3 +34,5 @@ Please check the existing issues and FAQ first:
 ## Response Time
 
 Support requests are reviewed as time allows. Clear reports with steps to reproduce are the easiest to investigate.
+
+</article>
