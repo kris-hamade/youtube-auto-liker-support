@@ -227,6 +227,20 @@ li + li {
   font-size: clamp(2.1rem, 5vw, 3.4rem);
 }
 
+.content-page .eyebrow {
+  margin-bottom: 8px;
+}
+
+.effective-date {
+  margin-bottom: 28px;
+  color: var(--muted);
+  font-weight: 650;
+}
+
+.policy-page h2:first-of-type {
+  margin-top: 34px;
+}
+
 .site-footer {
   width: min(1120px, calc(100% - 32px));
   margin: 0 auto;
