@@ -1,12 +1,22 @@
+---
+layout: home
+title: YouTube Auto Liker Support
+---
+
 # YouTube Auto Liker Support
 
 Official support and documentation for the YouTube Auto Liker Chrome extension.
 
 Need help, found a bug, or have a feature request?
 
-Please open a support request in GitHub Issues:
+[Open a support request](https://github.com/kris-hamade/youtube-auto-liker-support/issues)
 
-https://github.com/kris-hamade/youtube-auto-liker-support/issues
+## Helpful Links
+
+- [Support requests](https://github.com/kris-hamade/youtube-auto-liker-support/issues)
+- [FAQ](./FAQ.md)
+- [Privacy Policy](./privacy/)
+- Chrome Web Store: coming soon
 
 ## Reporting A Bug
 
@@ -19,14 +29,3 @@ When reporting a bug, please include:
 - Whether the issue happens on all YouTube videos or only certain channels
 
 Please do not include personal information, private YouTube account details, or sensitive browser data.
-
-## Links
-
-- Support: https://github.com/kris-hamade/youtube-auto-liker-support/issues
-- FAQ: ./FAQ.md
-- Privacy Policy: ./PRIVACY.md
-- Chrome Web Store: coming soon
-
-## About This Repository
-
-This repository is for public support, issue tracking, frequently asked questions, and policy documents for YouTube Auto Liker. It does not contain extension source code.
